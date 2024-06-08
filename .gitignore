@@ -1,0 +1,11 @@
+# Project exclude paths
+/node_modules/
+/.env
+/package-lock.json/
+.DS_Store
+style.scss
+style.css.map
+styles.scss
+styles.css.map
+*.iml
+*.xml
